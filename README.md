@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Fazal ullah 👋
+BSCS Student | Python & AI Developer | ML, DL & Computer Vision Projects  
 
-<!--
-**fazalullah21102/fazalullah21102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- Python, C++, SQL
+- Machine Learning & Deep Learning
+- Computer Vision & NLP
+- Pandas, NumPy, Matplotlib, PyTorch
 
-Here are some ideas to get you started:
+## 📂 Projects
+- [Pothole Detection CV Project](link-to-repo)
+- [Mask Detection AI Project](link-to-repo)
+- [Fruits & Vegetables Classifier](link-to-repo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: fazalullah21102@gmail.com
+- LinkedIn: [fazal-ullah](https://www.linkedin.com/in/fazal-ullah-b6863831a)
+
